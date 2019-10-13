@@ -1,4 +1,4 @@
-Surat, Indis
+Vadodara, India
 Gujarat, India
 
 Tehran, Iran
@@ -109,7 +109,7 @@ Forks of Salmon, California
 
 Ahmedabad,India
 
-simla,india
+Maharashatra,india
 
 Vadodara, India
 
